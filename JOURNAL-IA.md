@@ -1,0 +1,2 @@
+- À propos du tri, l’IA est d’accord avec tout, sauf qu’elle n’a pas su d’où venait la liste des produits.
+- Je trouve pertinent lorsqu’elle dit que cette solution est adaptée. Cela m’intrigue et me pousse à chercher une autre approche qu’un autre développeur aurait pu adopter.
